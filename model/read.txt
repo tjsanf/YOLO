@@ -1,0 +1,7 @@
+https://github.com/tensorflow/models/tree/master/research/slim
+
+vgg 16 .ckpt link
+http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz
+
+resnet v2 50 link
+http://download.tensorflow.org/models/resnet_v1_50_2016_08_28.tar.gz
